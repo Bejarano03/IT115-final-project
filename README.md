@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This is my finaly project for my IT115 course taken at North Seattle College.
+This is my final project for my IT115 course taken at North Seattle College.
 
 ## Technologies
 
